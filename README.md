@@ -1,4 +1,4 @@
-# <a href="http://www.crc.co.bw" > <img src="http://www.crc.co.bw/img/selecta.png"  title="logo" /> </a>
+# <a href="http://www.crc.co.bw" > <img src="http://www.crc.co.bw/img/capone-logox.png"  title="logo" /> </a>
 
 
 ## Title 2
